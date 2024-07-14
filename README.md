@@ -28,9 +28,22 @@ Welcome to my first static portfolio project! This portfolio is built from scrat
 - **Clean Layout**: The design is simple and clean, focusing on easy navigation and readability.
 - **Custom CSS**: Utilizes custom CSS to style elements and enhance visual appeal.
 
-## How to View
+## How to View Locally
 
-To view the portfolio, you can either clone this repository and open the `index.html` file in your browser, or [click here](#) for a live demo (replace with your live URL).
+To view the portfolio locally:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/kailash105/static-portfolio.git
+   ```
+
+2. **Navigate to the Portfolio Directory**:
+   ```bash
+   cd static-portfolio
+   ```
+
+3. **Open `index.html`**:
+   Simply open the `index.html` file in your preferred web browser.
 
 ## Feedback
 
