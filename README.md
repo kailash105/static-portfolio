@@ -13,13 +13,13 @@ Welcome to my first static portfolio project! This portfolio is built from scrat
 ### Projects
 ![Projects](https://github.com/user-attachments/assets/9496b8a8-aecf-4681-809d-716d957743cb)
 
-### Contact
+### Education details
 ![Contact](https://github.com/user-attachments/assets/ff3b64af-7568-4ae3-9dc2-3b057d872537)
 
-### Mobile View
+### Experience
 ![Mobile View](https://github.com/user-attachments/assets/f3de2d2d-d5fc-4163-a53b-a784df42651a)
 
-### Footer
+### Contact ME
 ![Footer](https://github.com/user-attachments/assets/a6fdc270-d589-4f4b-b932-62c0a23f5c79)
 
 ## Features
